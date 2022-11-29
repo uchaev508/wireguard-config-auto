@@ -2,7 +2,7 @@
 
 # Server config
 MAX_CLIENTS="5" # Number of client config will be generated
-SERVER_IP="192.168.0.10" # CHANGE ME
+SERVER_IP="132.145.248.215" # CHANGE ME
 SERVER_PORT="56789" # CHANGE ME
 DEVICE="" # CHANGE ME or leave it as blank to auto detect
 DISABLE_SELINUX="0" # CHANGE to 1: If you want to disable selinux (CentOS)
